@@ -52,15 +52,15 @@
 
 ### The Sweet Sohl and the Salt
 
-### `Tyusratra` or `*Tyursyatra`
+### \`Tyusratra\` or \`\*Tyursyatra\`
 
-#### `*tyursä-`
+#### \`\*tyursä-\`
 
-#### The `sohl^u` vs. `sohl^a` tradition
+#### The \`sohl\^u\` vs. \`sohl\^a\` tradition
 
-#### Isturjeb `čerš` or `trëš` 'wash'
+#### Isturjeb \`čerš\` or \`trëš\` 'wash'
 
-##### PSI `*tö|r@sä-/-yo|(` 'pour/REFL'
+##### PSI \`\*tö|r@sä-/-yo|(\` 'pour/REFL'
 
 ## Migration from the north or east?
 
@@ -82,7 +82,7 @@
 
 ## Culture and technology
 
-### `gob` -- clan, family or caste?
+### \`gob\` -- clan, family or caste?
 
 ### The Imperial period
 
@@ -158,7 +158,7 @@
 
 #### Linguistic reconstruction
 
-##### Kijeb as the _Ursprache_
+##### Kijeb as the \_Ursprache\_
 
 ##### Comparative philology
 
@@ -228,7 +228,7 @@
 
 #### The alphabet as a Western invention or an emergent shift
 
-##### The problem of ``
+##### The problem of \`\`
 
 ## Transcription and transliteration
 
@@ -238,15 +238,15 @@
 
 ## Languages or dialects?
 
-### The meaning of `patan`
+### The meaning of \`patan\`
 
 ### The significance of glottonyms
 
-#### `Sohlob`
+#### \`Sohlob\`
 
 #### The geographical glottonyms
 
-##### `Linjeb`--`Ringif`--`Þostirkanaf`
+##### \`Linjeb\`--\`Ringif\`--\`Þostirkanaf\`
 
 #### 
 
@@ -370,7 +370,7 @@
 
 ##### From five vowels to three
 
-###### Was there really an `ä`--`a` merger in Linjeb?
+###### Was there really an \`ä\`--\`a\` merger in Linjeb?
 
 ##### Palatalization vs. fricativization
 
@@ -380,9 +380,9 @@
 
 ##### Allophonic umlaut in Proto-Sohlob
 
-###### `*ï_1` and `*u_1` in Yahab
+###### \`\*ï\_1\` and \`\*u\_1\` in Yahab
 
-###### `*ï_2` and `*i_2` in Linjeb
+###### \`\*ï\_2\` and \`\*i\_2\` in Linjeb
 
 ##### Merger and loss of unstressed vowels
 
