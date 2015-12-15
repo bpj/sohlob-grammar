@@ -1,0 +1,14 @@
+---
+title: Sohlob Grammar
+subtitle: A synchronic and diachronic description
+author: BPJ
+
+linkcolor: &linkcolor PineGreen
+toccolor: *linkcolor
+urlcolor: blue
+
+fontsize: 12pt
+mainfont: FreeSerif
+sansfont: DejaVu Sans
+monofont: DejaVu Sans Mono
+...
